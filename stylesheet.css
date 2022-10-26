@@ -1,0 +1,155 @@
+@charset "UTF-8";
+/* CSS Document 
+NEW !!!!!*/
+
+
+body{
+	width: 960px;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: #F5F5F5;
+	font-family: acumin-pro, sans-serif;
+	font-weight: 150;
+	font-style: normal;
+	font-size: 14px;
+	text-align: right;
+	
+}
+
+
+
+nav li{
+	display: block;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 78px;
+	text-align: left;
+	color:#1F1F1F;
+	padding-right: 10px;
+	margin-top: 5px;
+	list-style-type: none;
+	
+}
+
+nav a{
+	text-decoration: none;
+	color:#F5F5F5;
+	text-shadow: -.5px .5px 0.5px #1F1F1F, .5px .5px 0.5px #1F1F1F, .5px -.5px 0 #1F1F1F, -.5px -.5px 0 #1F1F1F;
+	
+}
+
+.c1 {
+
+	width: 300px;
+	margin-left: 5px;
+	float: left;
+
+}
+
+nav {
+	position:fixed;
+}
+
+.c2 {
+	width: 560px;
+	float: left;
+	padding-left: 305px;
+}
+
+nav a:hover {
+	color: #1F1F1F;
+}
+
+
+.c3 {
+	float: right;
+	width: 75px;
+	padding-top: 140px;
+	padding-bottom: 145px;
+	
+}
+
+
+img {
+	width: 250 px;
+	height: 250px;
+	margin-left: 15px;
+	margin-top: 15px;
+
+
+}
+
+
+h1 {
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	/*color: #BF0000;*/
+	color: #1F1F1F;
+	font-size: 20px;
+	text-align: right;
+	margin-top: 20px;	
+}
+
+h2{
+	font-family: Sacramento, cursive;
+	font-weight: 100;
+	font-style: normal;
+	font-size: 50px;
+	letter-spacing: 0px;
+	margin-top: -20px;
+	margin-bottom: 28px;
+	padding-right: 5px;
+
+}
+
+h3 {
+	font-weight: 50;
+	font-style: italic;
+	letter-spacing: 2px;
+	color: #1F1F1F;
+	font-size: 15px;
+	text-align: right;
+	margin-top: -9px;
+	margin-right: 4px;
+}
+
+/*.c2contact li {
+	list-style-type: none;
+	display: block;
+	font-family: acumin-pro, sans-serif;
+	font-weight: 100;
+	font-style: normal;
+	font-size: 25px;
+	letter-spacing: 1.5px;
+	text-align: right;
+	margin-right: 150px;
+}*/
+
+
+.cursive {
+	font-family: Sacramento, cursive;
+	font-weight: 100;
+	font-style: normal;
+	font-size: 43px;
+	letter-spacing: 0px;
+}
+.paragraph {
+	margin-left: 75px;
+}
+
+.small {
+	width: 40 px;
+	height: 40px;
+	margin-top: 25px;
+	margin-right: 240px;
+}
+
+.small2 {
+	width: 25 px;
+	height: 25px;
+	margin-top: -85px;
+	margin-right: 5px;
+	
+}
+
